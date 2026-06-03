@@ -1,0 +1,6 @@
+{
+  "name": "MeetPark",
+  "description": "A high-profile social media and super meeting app with interactive video classes, simulated Zoom meetings, and social dashboard.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
